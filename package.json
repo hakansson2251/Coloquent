@@ -1,6 +1,6 @@
 {
   "name": "coloquent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Javascript/Typescript library mapping objects and their interrelations to JSON API, with a clean, fluent ActiveRecord-like (e.g. similar to Laravel's Eloquent) syntax  for creating, retrieving, updating and deleting model objects.",
   "main": "src/index.ts",
   "scripts": {
